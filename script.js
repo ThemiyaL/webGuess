@@ -17,9 +17,8 @@ function guessingGame(){
 
   guessDom.addEventListener("change",makeGuess);
 
-  
   function play(){
-    alert("Let's play...");
+    alert("Let's play..."); 
   }
 
   function makeGuess(e){
